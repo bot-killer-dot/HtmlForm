@@ -15,7 +15,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/hamayun-cpu/HtmlForm/a78aee5194c1651861d3d210cf8a00a0388057d4/index.html)
+[Live Demo Link](https://rawcdn.githack.com/bot-killer-cpu/HtmlForm/a78aee5194c1651861d3d210cf8a00a0388057d4/index.html)
 
 👤 **Cosmel Villalobos**
 
@@ -23,8 +23,7 @@ Additional description about the project and its features.
 - Twitter: [@kckeyti](https://twitter.com/kckeyti)
 - LinkedIn: [Cosmel Villalobos](https://www.linkedin.com/in/cosvilla/)
 
-👤 **DevHamayun**
+👤 **Ameer Farooq**
 
-- Github: [@githubhandle](https://github.com/hamayun-cpu)
-- Twitter: [@twitterhandle](https://twitter.com/hamayun_waheed?s=09&fbclid=IwAR0rfO9cMDDeCX8LfXf4cCNQDrL4LpJ02Q2csWhcT-VtMQ0Cy9EgTB4Wq8E)
-- Linkedin: [linkedin](https://www.linkedin.com/in/hamayun-waheed/)
+- Github: [githubhandle](https://github.com/bot-killer-dot)
+- Linkedin: [linkedin](https://www.linkedin.com/in/ameer-farooq1/)
